@@ -1,0 +1,101 @@
+.footer_bg {
+  width: 1420px;
+  height: 408px;
+  background-color: var(--black);
+}
+
+.Subscribe-to-weekly {
+  width: 315px;
+  height: 30px;
+  font-family: PlayfairDisplay;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.Get-latest-freebies {
+  width: 365px;
+  height: 36px;
+  opacity: 0.5;
+  font-family: FuturaPT;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+input {
+  width: 370px;
+  height: 41px;
+  background-color: #2e2e2e;
+}
+
+
+.sign-me-up {
+  width: 73px;
+  height: 13px;
+  font-family: Futura;
+  font-size: 10px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: var(--black);
+}
+
+.button_white_small {
+  width: 170px;
+  height: 41px;
+  background-color: #ffffff;
+}
+
+.dribbble {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.instagram {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.twitter {
+  width: 26px;
+  height: 22px;
+  object-fit: contain;
+}
+
+.behance {
+  width: 29px;
+  height: 17px;
+  object-fit: contain;
+}
+
+.Johansenco-All-ri {
+  width: 211px;
+  height: 36px;
+  opacity: 0.3;
+  font-family: FuturaPT;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
