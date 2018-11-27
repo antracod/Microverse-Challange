@@ -1,0 +1,105 @@
+.bg {
+  width: 1440px;
+  height: 6020px;
+  background-color: #ffffff;
+}
+
+.Bio {
+  width: 38px;
+  height: 22px;
+  font-family: FuturaPT;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 3.8px;
+  color: #ffffff;
+}
+
+.My-name-is-Jacob-Joh {
+  width: 1022px;
+  height: 82px;
+  font-family: FuturaPT;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.My-name-is-Jacob-Joh .text-style-1 {
+  font-weight: 900;
+}
+
+.Design-work {
+  width: 141px;
+  height: 32px;
+  font-family: PlayfairDisplay;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Blog {
+  width: 51px;
+  height: 32px;
+  font-family: PlayfairDisplay;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Instagram {
+  width: 115px;
+  height: 32px;
+  font-family: PlayfairDisplay;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Twitter {
+  width: 83px;
+  height: 32px;
+  font-family: PlayfairDisplay;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Sed-ut-perspiciatis {
+  width: 426px;
+  height: 52px;
+  opacity: 0.6;
+  font-family: FuturaPT;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+}
+
+.Line {
+  width: 1px;
+  height: 120px;
+}

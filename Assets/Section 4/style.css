@@ -1,0 +1,16 @@
+.I-was-working-with-p {
+  width: 665px;
+  height: 82px;
+  font-family: FuturaPT;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+.I-was-working-with-p .text-style-1 {
+  font-weight: 900;
+}
