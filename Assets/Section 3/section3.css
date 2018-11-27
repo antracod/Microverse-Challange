@@ -1,0 +1,254 @@
+.bg {
+  width: 1440px;
+  height: 6020px;
+  background-color: #ffffff;
+}
+
+.Services {
+  width: 98px;
+  height: 22px;
+  font-family: FuturaPT;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 3.8px;
+  color: var(--black);
+}
+
+.discovery_icon {
+  width: 87px;
+  height: 87px;
+  object-fit: contain;
+}
+
+.ux_icon {
+  width: 87px;
+  height: 87px;
+  object-fit: contain;
+  opacity: 0.5;
+}
+
+.ui_icon {
+  width: 87px;
+  height: 87px;
+  object-fit: contain;
+  opacity: 0.5;
+}
+
+.prototyping_icon {
+  width: 87px;
+  height: 87px;
+  object-fit: contain;
+  opacity: 0.5;
+}
+
+
+.Project-Discovery {
+  width: 180px;
+  height: 30px;
+  font-family: PlayfairDisplay;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+
+.UX-Design {
+  width: 107px;
+  height: 30px;
+  opacity: 0.5;
+  font-family: PlayfairDisplay;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+
+
+.UI-Design {
+  width: 100px;
+  height: 30px;
+  opacity: 0.5;
+  font-family: PlayfairDisplay;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+
+
+.Prototyping {
+  width: 122px;
+  height: 30px;
+  opacity: 0.5;
+  font-family: PlayfairDisplay;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+
+.Before-I-start-makin {
+  width: 316px;
+  height: 92px;
+  opacity: 0.5;
+  font-family: Futura;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.88;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+
+
+.Case-studies {
+  width: 146px;
+  height: 22px;
+  font-family: FuturaPT;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 3.8px;
+  color: var(--black);
+}
+
+
+.image {
+  width: 570px;
+  height: 400px;
+  object-fit: contain;
+}
+
+.Pineapple-miracle {
+  width: 268px;
+  height: 43px;
+  font-family: PlayfairDisplay;
+  font-size: 32px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--black);
+}
+
+
+.Sed-ut-perspiciatis {
+  width: 364px;
+  height: 128px;
+  opacity: 0.4;
+  font-family: FuturaPT;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  color: var(--black);
+}
+
+.See-case-study {
+  width: 106px;
+  height: 21px;
+  font-family: FuturaPT;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  color: var(--black);
+}
+
+.Classy-furnitures {
+  width: 255px;
+  height: 43px;
+  font-family: PlayfairDisplay;
+  font-size: 32px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--black);
+}
+
+
+.Sed-ut-perspiciatis {
+  width: 364px;
+  height: 128px;
+  opacity: 0.4;
+  font-family: FuturaPT;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: right;
+  color: var(--black);
+}
+
+.See-case-study {
+  width: 106px;
+  height: 21px;
+  font-family: FuturaPT;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  color: var(--black);
+}
+
+.Image {
+  width: 570px;
+  height: 400px;
+  object-fit: contain;
+}
+
+.More-projects {
+  width: 132px;
+  height: 15px;
+  font-family: Futura;
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2.7px;
+  text-align: center;
+  color: var(--black);
+}
+
+.Button_white_big {
+  width: 220px;
+  height: 50px;
+  box-shadow: 0 64px 64px 0 rgba(203, 219, 235, 0.2), 0 32px 32px 0 rgba(203, 219, 235, 0.2), 0 16px 16px 0 rgba(203, 219, 235, 0.2), 0 8px 8px 0 rgba(203, 219, 235, 0.2), 0 4px 4px 0 rgba(203, 219, 235, 0.2), 0 2px 2px 0 rgba(203, 219, 235, 0.2);
+  background-color: #ffffff;
+}
+
