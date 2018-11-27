@@ -1,33 +1,40 @@
-	.body {
-		 background-color: #fff;
-	}
-	
-	.section {
-		 height:1014px;
-		 background-color: #000;
-	}
-	
-	.section2{
-	 height:1014px;
-	 background-color: #2f3133;
-	}
-	
-	.section3{
-	 height:1014px;
-	 background-color: #000;
-	}
-	
-	.section4{
-	 height:1014px;
-	 background-color: #2f3133;
-	}
-	
-	.section5{
-	 height:1014px;
-	 background-color: #000;
-	}
-	
-	.section6{
-	 height:1014px;
-	 background-color: #2f3133;
-	}
+.bg {
+  width: 1440px;
+  height: 6020px;
+  background-color: #ffffff;
+
+
+  
+}.home {
+  height: 1014px;
+  background-color: #000;
+  background-image: url(./Assets/Section1/background.png);
+  object-fit: contain;
+}
+
+.section2 {
+  height: 1000px;
+  background-color: #2f3133;
+  
+}
+
+.section3 {
+  height: 1014px;
+  background-color: #000;
+}
+
+.section4 {
+  height: 1014px;
+  background-color: #2f3133;
+}
+
+.section5 {
+  height: 1014px;
+  background-color: #000;
+}
+
+.footer_bg {
+  width: 1420px;
+  height: 408px;
+  background-color: var(--black);
+}

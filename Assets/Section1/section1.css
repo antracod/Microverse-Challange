@@ -1,20 +1,29 @@
-.image {
-  width: 1420px;
-  height: 1014px;
-  object-fit: contain;
-  background-image: linear-gradient(to bottom, rgba(30, 30, 30, 0.2), var(--black));
+
+
+.nav {
+  padding-top: 48px;
 }
 
+.nav-item {
+  padding-right: 80px;
+
+}
+
+
 .LineNav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
   width: 60px;
   height: 0.5px;
+  background: #ffffff;
 }
 
 .about {
   width: 48px;
   height: 16px;
   opacity: 0.6;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
@@ -24,11 +33,11 @@
   color: #ffffff;
 }
 
-.Works {
+.works {
   width: 52px;
   height: 16px;
   opacity: 0.6;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
@@ -39,9 +48,9 @@
 }
 
 .hire-me {
-  width: 61px;
+  width: 95px;
   height: 16px;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
