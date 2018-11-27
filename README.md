@@ -1,4 +1,4 @@
-# Microverse-Challange
+# Microverse-challenge
 Assigments :
 
 - Extract Design Resources 
