@@ -1,0 +1,61 @@
+Hire-me {
+  width: 86px;
+  height: 22px;
+  font-family: FuturaPT;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 3.8px;
+  color: var(--black);
+}
+
+.I-am-available-for-h {
+  width: 652px;
+  height: 82px;
+  font-family: FuturaPT;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+.I-am-available-for-h .text-style-1 {
+  font-weight: 900;
+}
+
+.Button_black_big {
+  width: 200px;
+  height: 50px;
+  box-shadow: 0 64px 64px 0 rgba(203, 219, 235, 0.3), 0 32px 32px 0 rgba(203, 219, 235, 0.3), 0 16px 16px 0 rgba(203, 219, 235, 0.3), 0 8px 8px 0 rgba(203, 219, 235, 0.3), 0 4px 4px 0 rgba(203, 219, 235, 0.2), 0 2px 2px 0 rgba(203, 219, 235, 0.3);
+  background-color: var(--black);
+}
+
+.Button_white_big {
+  width: 200px;
+  height: 50px;
+  box-shadow: 0 64px 64px 0 rgba(203, 219, 235, 0.2), 0 32px 32px 0 rgba(203, 219, 235, 0.2), 0 16px 16px 0 rgba(203, 219, 235, 0.2), 0 8px 8px 0 rgba(203, 219, 235, 0.2), 0 4px 4px 0 rgba(203, 219, 235, 0.2), 0 2px 2px 0 rgba(203, 219, 235, 0.2);
+  background-color: #ffffff;
+}
+
+Just-want-to-say-hi {
+  width: 367px;
+  height: 36px;
+  font-family: FuturaPT;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+.Just-want-to-say-hi .text-style-1 {
+  font-weight: 900;
+  color: #ad0337;
+}
