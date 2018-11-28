@@ -23,7 +23,7 @@
   width: 48px;
   height: 16px;
   opacity: 0.6;
-  font-family: 'Playfair Display', serif;
+   font-family: 'Playfair Display', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
@@ -37,7 +37,7 @@
   width: 52px;
   height: 16px;
   opacity: 0.6;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
@@ -50,7 +50,7 @@
 .hire-me {
   width: 95px;
   height: 16px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
@@ -75,6 +75,10 @@
 
 .nm {
   padding-top: 60px;
+  background-image: url(./johansen-background.png);
+  background-size: 801px 227px;
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 
 .nm2 {
@@ -120,7 +124,7 @@
   width: 48px;
   height: 16px;
   opacity: 0.6;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
