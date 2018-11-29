@@ -59,3 +59,43 @@ img.center {
   color: #ad0337;
   text-align: center;
 }
+
+.dot1{
+
+  width: 6px;
+  height: 6px;
+  margin-left: 684px;
+  margin-top: 30px;
+  text-align: left;
+  text-transform: none;
+  object-fit: contain;
+  transform: rotate(-45deg);
+  background-color: #ad0337;
+}
+
+.dot2{
+  width: 6px;
+  height: 6px;
+  margin-left: 10px;
+  margin-top: 30px;
+  text-align: left;
+  text-transform: none;
+  object-fit: contain;
+  transform: rotate(-45deg);
+  background-color: #3a3a3a;
+
+}
+
+
+.dot3{
+  width: 6px;
+  height: 6px;
+  margin-left: 10px;
+  margin-top: 30px;
+  text-align: left;
+  text-transform: none;
+  object-fit: contain;
+  transform: rotate(-45deg);
+  background-color: #3a3a3a;
+
+}
