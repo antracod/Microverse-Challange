@@ -222,9 +222,26 @@
   color: var(--black);
 }
 
+.arrow {
+  width: 18.2px;
+  height: 13.3px;
+  object-fit: contain;
+  transform: rotate(0deg);
+ 
+}
+
+.arrow-2 {
+  width: 18.2px;
+  height: 13.3px;
+  object-fit: contain;
+  transform: rotate(-180deg);
+ 
+}
+
 .Classy-furnitures {
   width: 255px;
   height: 43px;
+  margin-left: 349px;
   font-family: 'Playfair Display SC', serif;
   font-size: 32px;
   font-weight: bold;
@@ -236,19 +253,20 @@
 }
 
 
-.Sed-ut-perspiciatis {
+.Sed-ut-perspiciatis-2 {
   width: 364px;
   height: 128px;
   opacity: 0.4;
-  font-family: 'PT Sans', sans-serif;
+  font-family: FuturaPT;
   font-size: 17px;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
   line-height: 1.88;
   letter-spacing: normal;
-  text-align: left;
+  text-align: right;
   color: var(--black);
+}
 }
 
 .See-case-study {
