@@ -10,7 +10,8 @@
     <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="./Assets/Section1/section1.css">
-    <link rel="stylesheet" href="./Assets/Section3/section3.css">
+    <link rel="stylesheet" href="./Assets/Section2/Section2.css">
+
     <title>Microverse Coding Project</title>
 </head>
 
