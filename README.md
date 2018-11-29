@@ -1,4 +1,5 @@
 # Microverse-challenge
+# Done by Radu Teodor and Courtnall Machanick
 Assigments :
 
 - Extract Design Resources 
