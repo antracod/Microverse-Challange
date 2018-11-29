@@ -1,13 +1,9 @@
-.footer_bg {
-  width: 1420px;
-  height: 408px;
-  background-color: var(--black);
-}
+
 
 .Subscribe-to-weekly {
   width: 315px;
   height: 30px;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display SC', serif;
   font-size: 22px;
   font-weight: bold;
   font-style: normal;
@@ -18,11 +14,21 @@
   color: #ffffff;
 }
 
+.swn {
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.frb {
+  justify-content: center;
+}
+}
+
 .Get-latest-freebies {
   width: 365px;
   height: 36px;
   opacity: 0.5;
-  font-family: FuturaPT;
+  font-family: 'PT Sans', sans-serif;
   font-size: 16px;
   font-weight: normal;
   font-style: normal;
@@ -33,31 +39,43 @@
   color: #ffffff;
 }
 
+.inp {
+  justify-content: center;
+}
+
 input {
   width: 370px;
   height: 41px;
   background-color: #2e2e2e;
 }
 
+.button_white_small {
+  margin-left: 30px;
+  padding-left: 50px;
+  padding-top: 13px;
+  justify-content: center;
+  text-align: center;
+  width: 170px;
+  height: 41px;
+  background-color: #ffffff;
+}
 
-.sign-me-up {
+.sign-me-up-2 {
   width: 73px;
   height: 13px;
-  font-family: Futura;
+  font-family: 'PT Sans', sans-serif;
   font-size: 10px;
   font-weight: 500;
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
   letter-spacing: 0.8px;
-  text-align: center;
   color: var(--black);
 }
 
-.button_white_small {
-  width: 170px;
-  height: 41px;
-  background-color: #ffffff;
+.ft-im {
+    padding-left: 599px;
+    padding-top: 79px;
 }
 
 .dribbble {
@@ -88,7 +106,7 @@ input {
   width: 211px;
   height: 36px;
   opacity: 0.3;
-  font-family: FuturaPT;
+  font-family: 'PT Sans', sans-serif;
   font-size: 16px;
   font-weight: normal;
   font-style: normal;
