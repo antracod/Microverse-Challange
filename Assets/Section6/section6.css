@@ -22,12 +22,13 @@
 .frb {
   justify-content: center;
 }
-}
+
 
 .Get-latest-freebies {
   width: 365px;
   height: 36px;
   opacity: 0.5;
+  padding-bottom: 70px;
   font-family: 'PT Sans', sans-serif;
   font-size: 16px;
   font-weight: normal;
