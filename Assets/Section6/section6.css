@@ -79,6 +79,9 @@ input {
     padding-top: 79px;
 }
 
+.im-foot {
+  padding-right: 40px;
+}
 .dribbble {
   width: 24px;
   height: 24px;
@@ -118,3 +121,9 @@ input {
   color: #ffffff;
 }
 
+.lst {
+  padding-top: 10px;
+  text-align: center;
+  justify-content: center;
+
+}
