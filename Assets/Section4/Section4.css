@@ -47,3 +47,15 @@ img.center {
   padding-right: 325px;
   padding-left: 325px;
 }
+
+.heading-13 {
+  padding-top: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.heading-12 {
+  margin-top: 0px;
+  color: #ad0337;
+  text-align: center;
+}
