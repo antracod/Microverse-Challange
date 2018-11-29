@@ -69,7 +69,7 @@
   margin-bottom: auto;
   width: 141px;
   height: 32px;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 24px;
   font-weight: bold;
   font-style: normal;
@@ -80,6 +80,7 @@
 }
 
 .paragraph-4 {
+  padding-right: 80px;
   margin-top: 50px;
   width: 426px;
   height: 52px;
@@ -100,7 +101,7 @@
   font-size: 32px;
   width: 141px;
   height: 32px;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 24px;
   font-weight: bold;
   font-style: normal;
@@ -123,7 +124,7 @@
 }
 
 .paragraph-5 {
-  padding-right: 100px;
+  padding-right: 80px;
   margin-top: 50px;
   width: 426px;
   height: 52px;
@@ -143,9 +144,8 @@
   margin-bottom: auto;
   width: 141px;
   height: 32px;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 24px;
-  font-weight: bold;
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
@@ -154,7 +154,7 @@
 }
 
 .paragraph-6 {
-  
+  padding-right: 80px;
   margin-top: 50px;
   width: 426px;
   height: 52px;
@@ -174,7 +174,7 @@
   margin-bottom: auto;
   width: 141px;
   height: 32px;
-  font-family: PlayfairDisplay;
+  font-family: 'Playfair Display', serif;
   font-size: 24px;
   font-weight: bold;
   font-style: normal;
@@ -186,6 +186,7 @@
 }
 
 .paragraph-7 {
+  padding-right: 80px;
   margin-top: 50px;
   width: 426px;
   height: 52px;
