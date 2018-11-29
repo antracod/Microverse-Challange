@@ -256,8 +256,9 @@
 .Sed-ut-perspiciatis-2 {
   width: 364px;
   height: 128px;
+  margin-left: 230px;
   opacity: 0.4;
-  font-family: FuturaPT;
+  font-family: 'PT Sans', sans-serif;
   font-size: 17px;
   font-weight: normal;
   font-style: normal;
@@ -267,11 +268,12 @@
   text-align: right;
   color: var(--black);
 }
-}
 
-.See-case-study {
-  width: 106px;
+
+.See-case-study-2 {
+  width: 556px;
   height: 21px;
+  margin-left: 310px;
   font-family: 'PT Sans', sans-serif;
   font-size: 16px;
   font-weight: normal;
@@ -282,6 +284,11 @@
   color: var(--black);
 }
 
+.chair {
+  margin-left: 220px;
+  justify-content: right;
+}
+
 .Image {
   width: 570px;
   height: 400px;
@@ -289,9 +296,10 @@
 }
 
 .More-projects {
-  width: 132px;
+  width: 220px;
   height: 15px;
-  font-family: Futura;
+  padding-top: 18px;
+  font-family: 'PT Sans', sans-serif;
   font-size: 12px;
   font-weight: 500;
   font-style: normal;
@@ -302,10 +310,23 @@
   color: var(--black);
 }
 
+.btnb {
+  justify-content: center;
+  margin-top: 101px;
+  text-align: center;
+}
+
 .Button_white_big {
   width: 220px;
   height: 50px;
   box-shadow: 0 64px 64px 0 rgba(203, 219, 235, 0.2), 0 32px 32px 0 rgba(203, 219, 235, 0.2), 0 16px 16px 0 rgba(203, 219, 235, 0.2), 0 8px 8px 0 rgba(203, 219, 235, 0.2), 0 4px 4px 0 rgba(203, 219, 235, 0.2), 0 2px 2px 0 rgba(203, 219, 235, 0.2);
   background-color: #ffffff;
+  justify-content: center;
 }
 
+.plus {
+  width: 14.9px;
+  height: 14.9px;
+  padding-left: 20.6px
+  object-fit: contain;
+}
